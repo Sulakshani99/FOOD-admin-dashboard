@@ -6,9 +6,9 @@ export default {
   ],
   theme: {
     colors: {
-      // transparent: 'transparent',
-      // current: 'currentColor',
-      // 'white': '#ffffff',
+      transparent: 'transparent',
+      current: 'currentColor',
+      'white': '#ffffff',
       theme: {
         colors: {
           'green': {
